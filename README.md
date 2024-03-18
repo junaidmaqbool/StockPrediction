@@ -17,6 +17,6 @@ for citation and references
 1. Maqbool, Junaid, Preeti Aggarwal, and Ravreet Kaur. "Incorporating Financial News Sentiments and MLP-Regressor with Feed-Forward for Stock Market Prediction." Emerging Technologies for Computing, Communication and Smart Cities: Proceedings of ETCCS 2021. Singapore: Springer Nature Singapore, 2022. 55-67.
 2. Maqbool, Junaid, et al. "Stock prediction by integrating sentiment scores of financial news and MLP-regressor: a machine learning approach." Procedia Computer Science 218 (2023): 1067-1078.
 
-dataset is publically available at https://www.kaggle.com/datasets/junaidgpu/stock-data-with-financial-news-analysis
+dataset is publically available at [Kaggle] (https://www.kaggle.com/datasets/junaidgpu/stock-data-with-financial-news-analysis)
 
 
