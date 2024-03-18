@@ -6,10 +6,11 @@ The stock market is very volatile as it depends on political, financial, environ
 
 
 Complete research paper can be found at 
-# Incorporating Financial News Sentiments and MLP-Regressor with Feed-Forward for Stock Market Prediction
+### Incorporating Financial News Sentiments and MLP-Regressor with Feed-Forward for Stock Market Prediction
 https://link.springer.com/chapter/10.1007/978-981-19-0284-0_5
-# Stock Prediction by Integrating Sentiment Scores of Financial News and MLP-Regressor: A Machine Learning Approach
+### Stock Prediction by Integrating Sentiment Scores of Financial News and MLP-Regressor: A Machine Learning Approach
 https://www.sciencedirect.com/science/article/pii/S1877050923000868
+
 Also the pdf of paper is available in the code file as well the data 
 for citation and references 
 
